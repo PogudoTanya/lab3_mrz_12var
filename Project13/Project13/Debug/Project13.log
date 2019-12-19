@@ -1,0 +1,9 @@
+﻿  image.c
+c:\users\user\desktop\лр3\project13\project13\image.c(24): warning C4013: memset: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\user\desktop\лр3\project13\project13\image.c(52): warning C4473: "fscanf_s": передано недостаточно аргументов для строки формата
+  c:\users\user\desktop\лр3\project13\project13\image.c(52): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\user\desktop\лр3\project13\project13\image.c(52): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+  c:\users\user\desktop\лр3\project13\project13\image.c(52): note: этот аргумент используется в качестве размера буфера
+  main.c
+  Создание кода...
+  Project13.vcxproj -> C:\Users\User\Desktop\ЛР3\Project13\Debug\Project13.exe
